@@ -7,3 +7,4 @@ void main(){
   }
   while(a<maxnum);
 }
+
